@@ -3,8 +3,8 @@
 - Install your preferred IDE example Atom, VS Code, Notepad++, PyCharm
 
 ## **Installation of git:**
-
-- **Go to: [Git (git-scm.com)](https://git-scm.com/)**
+Smoke
+- **Go to: [Git (git-scm.com)](https://git-scm.com/)** 
 - Click on the Download option on the bottom left 
 
 
